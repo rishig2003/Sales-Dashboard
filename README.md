@@ -113,15 +113,6 @@ Same Day shipping earned only a 6.9% margin versus 14.6% for First Class and 12.
 | 7 | **Run a profitability turnaround in Central and South.** Investigate Texas, Illinois, Pennsylvania, North Carolina and Colorado (discounts, product mix, shipping cost) and replicate what works in the West. | Insight 7 |
 | 8 | **Add a surcharge or minimum order for Same Day shipping**, and review pricing for Corporate accounts. | Insight 8 |
 
-### Suggested next steps for the dashboard
 
-- **Add a Discount vs. Profit view.** `Discount` is in the data model but not on either dashboard, yet it is the clearest driver of the margin problem (Insight 2).
-- **Add Profit Margin % as a KPI** next to Sales and Profit, so margin erosion is visible at a glance.
-- **Add Segment and Ship Mode breakdowns.** Both are already in `Orders` and show margin differences (Insight 8).
-- **Add a regional map.** `Location` provides state and city, so a map would make the Central and South profit gaps visible faster than filters do.
 
----
 
-## Tools and Skills Demonstrated
-
-Tableau Desktop · Multi-table data modelling · Calculated fields · LOD expressions (`FIXED`) · Window calculations (`WINDOW_MAX/MIN/AVG`) · Parameters · Dashboard actions and filters · KPI and sparkline design
