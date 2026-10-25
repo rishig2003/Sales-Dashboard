@@ -100,7 +100,7 @@ Same Day shipping earned only a 6.9% margin versus 14.6% for First Class and 12.
 ### Recommendations
 
 | # | Recommendation 
-|---|---|---|
+
 | 1 | **Cap discounts at 20% and require approval above it.** Lines above 20% lost $47.6K in 2023; this single control is the biggest profit lever in the data. 
 | 2 | **Reprice or restructure Tables and Machines.** Both combine heavy discounting with losses. For Supplies, which loses money without discounting, renegotiate supplier cost or raise prices. Review whether Bookcases justify their discount levels. 
 | 3 | **Fix Furniture economics.** A 1.4% margin on $215K of sales means the category's volume is not paying for itself. Shift marketing toward Copiers, Accessories, Phones and Paper, where margins are 12–44%. 
