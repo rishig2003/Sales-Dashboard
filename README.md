@@ -94,9 +94,6 @@ The top 10 customers by profit generated **$30.1K, which is 32.2% of total profi
 
 Nine of 46 states lost money in 2023. The largest losses were Texas (-$8.8K), Illinois (-$6.7K), Pennsylvania (-$5.1K), North Carolina (-$5.1K) and Colorado (-$4.4K). California, New York and Washington together account for 41.7% of sales.
 
-**7. Same Day shipping and the Corporate segment have the thinnest margins**
-Same Day shipping earned only a 6.9% margin versus 14.6% for First Class and 12.4% for Standard Class. The Corporate segment's margin was 11.1% versus 13.7% for Consumer and 13.2% for Home Office.
-
 ### Recommendations
 
 **1. Cap discounts at 20% and require approval above it:** Lines above 20% lost $47.6K in 2023; this single control is the biggest profit lever in the data. 
