@@ -40,7 +40,7 @@ Sales data usually lives in several flat files (orders, customers, products, loc
 - **Averages hide the real story.** Sub-category and weekly views show *where* and *when* performance is strong or weak, which is where action can be taken (pricing, promotion, stock, staffing).
 - **Customer concentration is a business risk.** Knowing how many customers order once versus repeatedly, and how much the top 10 contribute, shows whether growth is built on a loyal base or on one-off purchases.
 - **A single interactive view replaces many static reports.** Self-service filtering by region, state, city and category lets non-technical stakeholders explore the data without writing queries.
-- **It is a realistic end-to-end analytics exercise.** It covers data modelling, calculated fields (CY/PY logic, LOD expressions, window calculations), parameter-driven design and dashboard interactivity.
+- **It is a realistic end-to-end analytics exercise.** It covers calculated fields (CY/PY logic, LOD expressions, window calculations), parameter-driven design, and dashboard interactivity.
 
 ---
 
@@ -66,7 +66,7 @@ Sales data usually lives in several flat files (orders, customers, products, loc
 Sales grew 20.4% and quantity 26.8%, but profit grew only 14.2%, so the margin slipped from 13.4% to 12.7%. Orders grew faster than sales (+28.3% vs +20.4%), so the average order value fell from about $463 to $435: customers are buying more often but spending less per order. The business has grown every year since 2021 (sales of $484K in 2020, $471K in 2021, $609K in 2022, $733K in 2023), so this is a margin problem, not a demand problem.
 
 **2. Discounts above 20% destroy profit (not on the dashboard yet)**
-Order lines with no discount made 29.9% margin. Lines discounted 1–20% made 13.3%. Lines discounted 21–40% lost 17.6%, and lines discounted over 40% lost 92.5%. Together the lines discounted above 20% were only 14.6% of sales ($107K) but lost **$47.6K**, which is half of the entire 2023 profit. Had they merely broken even, profit would have been about $141K. The average discount has been flat at about 15.6% since 2020, so the damage comes from a minority of heavily discounted lines, not from across-the-board discounting.
+Order lines with no discount made 29.9% margin. Lines discounted 1–20% made 13.3%. Lines discounted 21–40% lost 17.6%, and lines discounted over 40% lost 92.5%. Together, the lines discounted above 20% were only 14.6% of sales ($107K) but lost **$47.6K**, which is half of the entire 2023 profit. Had they merely broken even, profit would have been about $141K. The average discount has been flat at about 15.6% since 2020, so the damage comes from a minority of heavily discounted lines, not from across-the-board discounting.
 
 **3. Four sub-categories lose money (Sales and Profit by Subcategory)**
 | Sub-Category | 2023 Sales | 2023 Profit | Margin | Note |
