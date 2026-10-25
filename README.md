@@ -65,10 +65,7 @@ Sales data usually lives in several flat files (orders, customers, products, loc
 **1. Growth is strong, but profit is lagging sales (Sales Dashboard, KPI cards)**
 Sales grew 20.4% and quantity 26.8%, but profit grew only 14.2%, so the margin slipped from 13.4% to 12.7%. Orders grew faster than sales (+28.3% vs +20.4%), so the average order value fell from about $463 to $435: customers are buying more often but spending less per order. The business has grown every year since 2021 (sales of $484K in 2020, $471K in 2021, $609K in 2022, $733K in 2023), so this is a margin problem, not a demand problem.
 
-**2. Discounts above 20% destroy profit (not on the dashboard yet)**
-Order lines with no discount made 29.9% margin. Lines discounted 1–20% made 13.3%. Lines discounted 21–40% lost 17.6%, and lines discounted over 40% lost 92.5%. Together, the lines discounted above 20% were only 14.6% of sales ($107K) but lost **$47.6K**, which is half of the entire 2023 profit. Had they merely broken even, profit would have been about $141K. The average discount has been flat at about 15.6% since 2020, so the damage comes from a minority of heavily discounted lines, not from across-the-board discounting.
-
-**3. Four sub-categories lose money (Sales and Profit by Subcategory)**
+**2. Four sub-categories lose money (Sales and Profit by Subcategory)**
 | Sub-Category | 2023 Sales | 2023 Profit | Margin | Note |
 |---|---|---|---|---|
 | Tables | $60.9K | -$8.1K | -13.4% | Average discount 26.5%; 56% of lines discounted above 20% |
@@ -78,16 +75,16 @@ Order lines with no discount made 29.9% margin. Lines discounted 1–20% made 13
 
 The best performers are **Copiers** ($25.0K profit, 39.8% margin), **Accessories** ($15.7K, 26.1%), **Phones** ($12.8K on the largest sales of $105.3K) and **Paper** ($12.0K, 43.5% margin). By category, Furniture earned only **$3.0K on $215K of sales (1.4% margin)**, versus 16.1% for Office Supplies and 18.7% for Technology.
 
-**4. Sales are heavily seasonal, and the peak is the least profitable period (Weekly Trends)**
+**3. Sales are heavily seasonal, and the peak is the least profitable period (Weekly Trends)**
 September–December produced **50.2%** of 2023 sales, and November alone produced $118.4K. January–February produced just 8.8%. Sales were above the weekly average in 22 of 52 weeks, with the strongest weeks being 48, 46 and 44, and the weakest being weeks 21, 8 and 15. Profit does not follow sales: November's margin was **8.2%** versus **25.1%** in March, and April made $933 profit on $36.5K of sales (2.6%). Five weeks in 2023 had a net loss.
 
-**5. Customers are returning and buying more often (Customer Dashboard)**
+**4. Customers are returning and buying more often (Customer Dashboard)**
 Orders per customer rose from 2.06 to 2.43. The share of customers with only one order fell from **40.9% to 28.9%** (200 customers), and 52 customers (7.5%) ordered five or more times. Of the 638 customers from 2022, 558 (87.5%) came back; 80 did not. 135 customers were new in 2023.
 
-**6. Profit is concentrated in a few customers, and some are unprofitable (Top 10 Customers)**
+**5. Profit is concentrated in a few customers, and some are unprofitable (Top 10 Customers)**
 The top 10 customers by profit generated **$30.1K, which is 32.2% of total profit from only 10.4% of sales**. They are led by Raymond Buch ($6.8K), Hunter Lopez ($5.0K) and Tom Ashbrook ($4.6K). Three of the ten last ordered more than 90 days before the end of the data: Raymond Buch (25 Sep), Helen Wasserman (4 Sep) and Steven Roelle (17 Jun). At the other end, 146 customers were unprofitable in 2023, losing **$37.5K** in total.
 
-**7. West and East carry the business; Central and South are barely profitable (Region / State filters)**
+**6. West and East carry the business; Central and South are barely profitable (Region / State filters)**
 | Region | Sales | Profit | Margin | Sales YoY | Profit YoY |
 |---|---|---|---|---|---|
 | West | $250.1K | $43.8K | 17.5% | +33.4% | +82.1% |
@@ -97,7 +94,7 @@ The top 10 customers by profit generated **$30.1K, which is 32.2% of total profi
 
 Nine of 46 states lost money in 2023. The largest losses were Texas (-$8.8K), Illinois (-$6.7K), Pennsylvania (-$5.1K), North Carolina (-$5.1K) and Colorado (-$4.4K). California, New York and Washington together account for 41.7% of sales.
 
-**8. Same Day shipping and the Corporate segment have the thinnest margins**
+**7. Same Day shipping and the Corporate segment have the thinnest margins**
 Same Day shipping earned only a 6.9% margin versus 14.6% for First Class and 12.4% for Standard Class. The Corporate segment's margin was 11.1% versus 13.7% for Consumer and 13.2% for Home Office.
 
 ### Recommendations
