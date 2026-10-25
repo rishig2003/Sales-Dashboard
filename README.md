@@ -54,7 +54,6 @@ Sales data usually lives in several flat files (orders, customers, products, loc
 |---|---|---|---|
 | Sales | $733,215 | $609,206 | **+20.4%** |
 | Profit | $93,439 | $81,795 | **+14.2%** |
-| Profit margin | 12.7% | 13.4% | **-0.7 pts** |
 | Quantity | 12,476 | 9,837 | **+26.8%** |
 | Orders | 1,687 | 1,315 | **+28.3%** |
 | Customers | 693 | 638 | **+8.6%** |
