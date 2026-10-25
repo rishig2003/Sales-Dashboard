@@ -99,16 +99,14 @@ Same Day shipping earned only a 6.9% margin versus 14.6% for First Class and 12.
 
 ### Recommendations
 
-| # | Recommendation 
-
-| 1 | **Cap discounts at 20% and require approval above it.** Lines above 20% lost $47.6K in 2023; this single control is the biggest profit lever in the data. 
-| 2 | **Reprice or restructure Tables and Machines.** Both combine heavy discounting with losses. For Supplies, which loses money without discounting, renegotiate supplier cost or raise prices. Review whether Bookcases justify their discount levels. 
-| 3 | **Fix Furniture economics.** A 1.4% margin on $215K of sales means the category's volume is not paying for itself. Shift marketing toward Copiers, Accessories, Phones and Paper, where margins are 12–44%. 
-| 4 | **Protect margin during the Q4 peak and lift the slow months.** Stock and staff ahead of September–December, but avoid deep discounts in November (8.2% margin). Use targeted promotions in January–February and the weakest weeks (8, 15, 21) to smooth demand.
-| 5 | **Convert one-time buyers and win back lapsed customers.** Target the 200 one-order customers and 135 new customers with follow-up offers, and run a win-back campaign for the 80 customers from 2022 who did not return.
-| 6 | **Re-engage the top customers who have gone quiet.** Contact Raymond Buch, Helen Wasserman, and Steven Roelle, and give the top 10 dedicated account attention, as they produce a third of profit. Review discount levels given to the 146 unprofitable customers.
-| 7 | **Run a profitability turnaround in Central and South.** Investigate Texas, Illinois, Pennsylvania, North Carolina, and Colorado (discounts, product mix, shipping cost) and replicate what works in the West.
-| 8 | **Add a surcharge or minimum order for Same Day shipping**, and review pricing for Corporate accounts.
+**1 Cap discounts at 20% and require approval above it.** Lines above 20% lost $47.6K in 2023; this single control is the biggest profit lever in the data. 
+**2 Reprice or restructure Tables and Machines.** Both combine heavy discounting with losses. For Supplies, which loses money without discounting, renegotiate supplier cost or raise prices. Review whether Bookcases justify their discount levels. 
+**3 Fix Furniture economics.** A 1.4% margin on $215K of sales means the category's volume is not paying for itself. Shift marketing toward Copiers, Accessories, Phones and Paper, where margins are 12–44%. 
+**4 Protect margin during the Q4 peak and lift the slow months.** Stock and staff ahead of September–December, but avoid deep discounts in November (8.2% margin). Use targeted promotions in January–February and the weakest weeks (8, 15, 21) to smooth demand.
+**5 Convert one-time buyers and win back lapsed customers.** Target the 200 one-order customers and 135 new customers with follow-up offers, and run a win-back campaign for the 80 customers from 2022 who did not return.
+**6 Re-engage the top customers who have gone quiet.** Contact Raymond Buch, Helen Wasserman, and Steven Roelle, and give the top 10 dedicated account attention, as they produce a third of profit. Review discount levels given to the 146 unprofitable customers.
+**7 Run a profitability turnaround in Central and South.** Investigate Texas, Illinois, Pennsylvania, North Carolina, and Colorado (discounts, product mix, shipping cost) and replicate what works in the West.
+**8 Add a surcharge or minimum order for Same Day shipping**, and review pricing for Corporate accounts.
 
 
 
